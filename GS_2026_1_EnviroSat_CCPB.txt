@@ -1,0 +1,13 @@
+cat > GS_2026_1_EnviroSat_CCPB.txt << 'EOF'
+# Arquivo: GS_2026_1_EnviroSat_CCPB.txt
+
+Nome completo e RM de todos os integrantes:
+- Caio Moda F F Barbieri (Com nota do challenge) — RM: 566747
+- Pietro Visconti Bueno de Mello — RM: 567673
+- Dicley Lucas Neto — RM: 567588
+
+Modalidade: Trio
+
+Link do repositório GitHub: https://github.com/Caiobar10/mission-control-ai
+
+Link do vídeo de demonstração: https://youtu.be/l5ZGW7qMP4I
